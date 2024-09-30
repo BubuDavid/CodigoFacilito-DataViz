@@ -1,5 +1,3 @@
-# Clase de Data Visualization con Python
-
 # 🎨 Clase de Data Visualization con Python
 
 ¡Hola! 👋 Bienvenidas y bienvenidos a esta clase introductoria sobre **visualización de datos**. En esta sesión, exploraremos las visualizaciones más básicas de manera sencilla y comprensible, utilizando nuestro lenguaje favorito... ¡**Python**! 🐍✨
