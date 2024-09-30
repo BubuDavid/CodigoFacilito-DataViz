@@ -1,4 +1,8 @@
-strealmit
+streamlit
 pandas
 matplotlib
 plotly
+requests
+python-dotenv
+wordcloud
+pydeck
