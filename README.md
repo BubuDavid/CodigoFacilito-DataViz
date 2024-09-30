@@ -4,7 +4,11 @@
 
 ## 🤔 ¿Qué aprenderás en esta clase?
 
-En este **Google Colab**, nos enfocaremos en los siguientes temas fundamentales para la creación de gráficos y visualizaciones:
+<a target="_blank" href="https://colab.research.google.com/github/BubuDavid/CodigoFacilito-DataViz/blob/main/1.%20Google%20Colab/Visualizaci%C3%B3n%20de%20Datos%20Notebook.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+En este [Google Colab](https://colab.research.google.com/github/BubuDavid/CodigoFacilito-DataViz/blob/main/1.%20Google%20Colab/Visualizaci%C3%B3n%20de%20Datos%20Notebook.ipynb), nos enfocaremos en los siguientes temas fundamentales para la creación de gráficos y visualizaciones:
 
 ### 1. 🖌️ **Introducción a Matplotlib**
 
