@@ -1,0 +1,5 @@
+strealmit
+pyodbc
+pandas
+matplotlib
+plotly

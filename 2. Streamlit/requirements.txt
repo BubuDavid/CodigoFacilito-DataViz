@@ -1,0 +1,4 @@
+strealmit
+pandas
+matplotlib
+plotly
