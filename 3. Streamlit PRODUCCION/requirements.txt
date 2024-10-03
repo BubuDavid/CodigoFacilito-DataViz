@@ -1,5 +1,7 @@
-strealmit
-pyodbc
+streamlit>=0.69
+streamlit-echarts>=0.4.0
+plotly
 pandas
 matplotlib
-plotly
+sqlalchemy
+psycopg2-binary

@@ -1,8 +1,2 @@
-streamlit
-pandas
-matplotlib
-plotly
-requests
-python-dotenv
-wordcloud
-pydeck
+streamlit>=0.69
+streamlit-echarts>=0.4.0
